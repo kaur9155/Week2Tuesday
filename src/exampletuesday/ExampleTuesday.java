@@ -16,6 +16,7 @@ public class ExampleTuesday {
      */
     public static void main(String[] args) {
         System.out.println("Learn github");
+        System.out.println("second message");
     }
     
 }
